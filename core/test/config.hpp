@@ -1,4 +1,4 @@
-#define TEST_ASSETS_PATH "_TEST_ASSETS_PATH_"
+#define TEST_ASSETS_PATH "/Users/sklab/utymap/core/test/test_assets/"
 
 #define TEST_MAPCSS_PATH TEST_ASSETS_PATH "mapcss/"
 #define TEST_MAPCSS_DEFAULT "../../../unity/demo/Assets/StreamingAssets/mapcss/default/index.mapcss"

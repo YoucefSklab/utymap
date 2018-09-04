@@ -1,8 +1,6 @@
-cmake_minimum_required (VERSION 3.1)
+cmake_minimum_required (VERSION 3.12)
 project ("UtyMap")
-
 option(WITH_FEATURE_PBF_SUPPORT "Allow import from pbf (requires protobuf and zlib)." ON)
-
 set(CMAKE_CXX_STANDARD 11)
 
 set(MAIN_SOURCE ${PROJECT_SOURCE_DIR}/src)
